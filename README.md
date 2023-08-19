@@ -12,3 +12,8 @@ Import Example:
 ```python
 import matplotlib.pyplot as plt
 ```
+
+Chart Example:
+<p align="left">
+    <img width="550" src="./assets/barchart.png" alt="bar chart" draggable="false">
+</p>
